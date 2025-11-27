@@ -1,3 +1,5 @@
 node_modules/ 
-dist/ 
 out/ 
+dist/ 
+.env 
+.env.local 
